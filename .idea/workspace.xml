@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e1d9ccf-388c-4023-a5e9-6ef9e4901bf8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/CORE/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/main/java/com/example/client/CustomerClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/main/java/com/example/client/GitHubClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/main/java/com/example/rest/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/main/java/com/example/rest/CustomerRest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/main/java/com/example/rest/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1o3BF70d7xuJNdNmDdWBXWlu03P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e1d9ccf-388c-4023-a5e9-6ef9e4901bf8" name="Default Changelist" comment="" />
+      <created>1612505287408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612505287408</updated>
+      <workItem from="1612505288772" duration="427000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1612505435583">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.690@0.0.1280.690" timestamp="1612505435583" />
+    <state x="458" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612505714907">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="458" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.690@0.0.1280.690" timestamp="1612505714907" />
+  </component>
+</project>
