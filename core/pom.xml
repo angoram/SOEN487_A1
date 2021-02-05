@@ -4,10 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example.rest</groupId>
-    <artifactId>core</artifactId>
+    <artifactId>CORE</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>core</name>
+    <name>CORE</name>
 
     <dependencyManagement>
         <dependencies>
