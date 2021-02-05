@@ -5,13 +5,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e1d9ccf-388c-4023-a5e9-6ef9e4901bf8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/CORE/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/src/main/java/com/example/client/CustomerClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/src/main/java/com/example/client/GitHubClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/src/main/java/com/example/rest/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/src/main/java/com/example/rest/CustomerRest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/src/main/java/com/example/rest/Main.java" beforeDir="false" />
+    <list default="true" id="2e1d9ccf-388c-4023-a5e9-6ef9e4901bf8" name="Default Changelist" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/SOEN487_A1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +38,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\felix\Desktop\SOEN487_A1\src" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -62,8 +71,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612505287408</updated>
-      <workItem from="1612505288772" duration="427000" />
+      <workItem from="1612505288772" duration="1795000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1612505746220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612505746220</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,11 +127,15 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1612505435583">
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1612531883415">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.690@0.0.1280.690" timestamp="1612505435583" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.690@0.0.1280.690" timestamp="1612531883415" />
     <state x="458" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612505714907">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
